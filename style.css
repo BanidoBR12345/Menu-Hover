@@ -1,0 +1,18 @@
+body{
+    background-color: lemonchiffon;
+}
+div{
+    background-color: darkblue;
+    display: inline-block;
+    padding: 30px 60px;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+}
+div:hover {
+    cursor: pointer;
+    background-color: white;
+    color: #CDCDCD;
+}
+ 
